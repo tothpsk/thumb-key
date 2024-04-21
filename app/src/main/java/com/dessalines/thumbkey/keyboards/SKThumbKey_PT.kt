@@ -327,7 +327,7 @@ val KB_SK_THUMBKEY_MAIN =
         ),
     )
 
-val KB_EN_THUMBKEY_SHIFTED =
+val KB_SK_THUMBKEY_SHIFTED =
     KeyboardC(
         listOf(
             listOf(
