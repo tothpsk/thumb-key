@@ -70,7 +70,7 @@ val KB_SK_THUMBKEY_MAIN =
                                 KeyC(
                                     action = KeyAction.CommitText("z"),
                                 ),
-                            SwipeDirection.BOTTOM_RIGHT to
+                            SwipeDirection.BOTTOM_LEFT to
                                 KeyC(
                                     action = KeyAction.CommitText("ž"),
                                 ),
