@@ -246,4 +246,5 @@ enum class KeyboardLayout(val keyboardDefinition: KeyboardDefinition) {
     TOKThumbKey(KB_TOK_THUMBKEY),
     TOKSitelenEmojiThumbKey(KB_TOK_SITELEN_EMOJI_THUMBKEY),
     PLTypeSplitSymbols(KB_PL_TYPESPLIT_SYMBOLS),
+    SKThumbKeyV2(KB_SK_THUMBKEY_V2),
 }
