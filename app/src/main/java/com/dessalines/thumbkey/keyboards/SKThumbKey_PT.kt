@@ -327,7 +327,7 @@ val KB_SK_THUMBKEY_V2_MAIN =
         ),
     )
 
-val KB_SK_THUMBKEY_SHIFTED =
+val KB_SK_THUMBKEY_V2_SHIFTED =
     KeyboardC(
         listOf(
             listOf(
@@ -643,8 +643,8 @@ val KB_SK_THUMBKEY: KeyboardDefinition =
         title = "slovak thumb-key_v2",
         modes =
             KeyboardDefinitionModes(
-                main = KB_SK_THUMBKEY_MAIN,
-                shifted = KB_SK_THUMBKEY_SHIFTED,
+                main = KB_SK_THUMBKEY_V2_MAIN,
+                shifted = KB_SK_THUMBKEY_V2_SHIFTED,
                 numeric = NUMERIC_KEYBOARD,
             ),
         settings =
