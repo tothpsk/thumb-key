@@ -20,7 +20,7 @@ import com.dessalines.thumbkey.utils.SwipeNWay
 import com.dessalines.thumbkey.utils.autoCapitalizeI
 import com.dessalines.thumbkey.utils.autoCapitalizeIApostrophe
 
-val KB_SK_THUMBKEY_MAIN =
+val KB_SK_THUMBKEY_V2_MAIN =
     KeyboardC(
         listOf(
             listOf(
